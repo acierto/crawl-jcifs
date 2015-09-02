@@ -1,0 +1,14 @@
+{
+  "name": "crawl-jcifs",
+  "description": "",
+  "author": "",
+  "version": "0.0.1",
+  "main": "loader.js",
+  "dependencies": {
+    "crawler": "0.4.3",
+    "mkdirp": "0.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
